@@ -23,6 +23,6 @@ Este proyecto fue desarrollado como parte del currículo de la escuela 42.
 
 ## 🛠️ Instalación
 ```bash
-git clone https://github.com/tuusuario/minishell.git
+git clone https://github.com/ebalana/Minishell.git
 cd minishell
 make
