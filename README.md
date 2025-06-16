@@ -1,5 +1,5 @@
 # Minishell
-42 minishell Project - Ernes Balañá and Miquel Avellaneda
+42 minishell Project - Ernest Balañá and Miquel Avellaneda
 
 ## Descripción
 `minishell` es una implementación de una shell mínima que reproduce el comportamiento básico de bash. El proyecto tiene como objetivo profundizar en el manejo de procesos, señales, parsing y estructuras del sistema operativo Unix.
